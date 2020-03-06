@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/desafioFrontend/static/css/main.320f6465.chunk.css",
+    "main.js": "/desafioFrontend/static/js/main.9299becb.chunk.js",
+    "main.js.map": "/desafioFrontend/static/js/main.9299becb.chunk.js.map",
+    "runtime-main.js": "/desafioFrontend/static/js/runtime-main.5e876a0d.js",
+    "runtime-main.js.map": "/desafioFrontend/static/js/runtime-main.5e876a0d.js.map",
+    "static/js/2.2fefe466.chunk.js": "/desafioFrontend/static/js/2.2fefe466.chunk.js",
+    "static/js/2.2fefe466.chunk.js.map": "/desafioFrontend/static/js/2.2fefe466.chunk.js.map",
+    "index.html": "/desafioFrontend/index.html",
+    "precache-manifest.5a64f974d7edc9bddcd59bee3466e0de.js": "/desafioFrontend/precache-manifest.5a64f974d7edc9bddcd59bee3466e0de.js",
+    "service-worker.js": "/desafioFrontend/service-worker.js",
+    "static/css/main.320f6465.chunk.css.map": "/desafioFrontend/static/css/main.320f6465.chunk.css.map",
+    "static/js/2.2fefe466.chunk.js.LICENSE.txt": "/desafioFrontend/static/js/2.2fefe466.chunk.js.LICENSE.txt",
+    "static/media/Capturar.JPG": "/desafioFrontend/static/media/Capturar.aecd1048.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e876a0d.js",
+    "static/js/2.2fefe466.chunk.js",
+    "static/css/main.320f6465.chunk.css",
+    "static/js/main.9299becb.chunk.js"
+  ]
+}
