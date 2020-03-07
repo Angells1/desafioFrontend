@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/desafioFrontend/static/css/main.76827923.chunk.css",
-    "main.js": "/desafioFrontend/static/js/main.5a9eebc6.chunk.js",
-    "main.js.map": "/desafioFrontend/static/js/main.5a9eebc6.chunk.js.map",
+    "main.css": "/desafioFrontend/static/css/main.3683a6a7.chunk.css",
+    "main.js": "/desafioFrontend/static/js/main.418ac453.chunk.js",
+    "main.js.map": "/desafioFrontend/static/js/main.418ac453.chunk.js.map",
     "runtime-main.js": "/desafioFrontend/static/js/runtime-main.5e876a0d.js",
     "runtime-main.js.map": "/desafioFrontend/static/js/runtime-main.5e876a0d.js.map",
-    "static/js/2.1131da0a.chunk.js": "/desafioFrontend/static/js/2.1131da0a.chunk.js",
-    "static/js/2.1131da0a.chunk.js.map": "/desafioFrontend/static/js/2.1131da0a.chunk.js.map",
+    "static/js/2.b0b8c5ef.chunk.js": "/desafioFrontend/static/js/2.b0b8c5ef.chunk.js",
+    "static/js/2.b0b8c5ef.chunk.js.map": "/desafioFrontend/static/js/2.b0b8c5ef.chunk.js.map",
     "index.html": "/desafioFrontend/index.html",
-    "precache-manifest.5f97fb2abd3b0a003969f7808fdefd1b.js": "/desafioFrontend/precache-manifest.5f97fb2abd3b0a003969f7808fdefd1b.js",
+    "precache-manifest.1892ca59f58ed082f47a77caed44c5be.js": "/desafioFrontend/precache-manifest.1892ca59f58ed082f47a77caed44c5be.js",
     "service-worker.js": "/desafioFrontend/service-worker.js",
-    "static/css/main.76827923.chunk.css.map": "/desafioFrontend/static/css/main.76827923.chunk.css.map",
-    "static/js/2.1131da0a.chunk.js.LICENSE.txt": "/desafioFrontend/static/js/2.1131da0a.chunk.js.LICENSE.txt",
-    "static/media/Capturar.JPG": "/desafioFrontend/static/media/Capturar.aecd1048.JPG"
+    "static/css/main.3683a6a7.chunk.css.map": "/desafioFrontend/static/css/main.3683a6a7.chunk.css.map",
+    "static/js/2.b0b8c5ef.chunk.js.LICENSE.txt": "/desafioFrontend/static/js/2.b0b8c5ef.chunk.js.LICENSE.txt",
+    "static/media/Capturar.JPG": "/desafioFrontend/static/media/Capturar.aecd1048.JPG",
+    "static/media/search-24px.svg": "/desafioFrontend/static/media/search-24px.a88f7755.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.5e876a0d.js",
-    "static/js/2.1131da0a.chunk.js",
-    "static/css/main.76827923.chunk.css",
-    "static/js/main.5a9eebc6.chunk.js"
+    "static/js/2.b0b8c5ef.chunk.js",
+    "static/css/main.3683a6a7.chunk.css",
+    "static/js/main.418ac453.chunk.js"
   ]
 }
