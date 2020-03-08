@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/desafioFrontend/static/css/main.ff679bc6.chunk.css",
-    "main.js": "/desafioFrontend/static/js/main.66a6a679.chunk.js",
-    "main.js.map": "/desafioFrontend/static/js/main.66a6a679.chunk.js.map",
+    "main.js": "/desafioFrontend/static/js/main.36f2c3cf.chunk.js",
+    "main.js.map": "/desafioFrontend/static/js/main.36f2c3cf.chunk.js.map",
     "runtime-main.js": "/desafioFrontend/static/js/runtime-main.5e876a0d.js",
     "runtime-main.js.map": "/desafioFrontend/static/js/runtime-main.5e876a0d.js.map",
     "static/js/2.b0b8c5ef.chunk.js": "/desafioFrontend/static/js/2.b0b8c5ef.chunk.js",
     "static/js/2.b0b8c5ef.chunk.js.map": "/desafioFrontend/static/js/2.b0b8c5ef.chunk.js.map",
     "index.html": "/desafioFrontend/index.html",
-    "precache-manifest.cc1bb9d2ba5c88f75ad77e5e7d8d81ea.js": "/desafioFrontend/precache-manifest.cc1bb9d2ba5c88f75ad77e5e7d8d81ea.js",
+    "precache-manifest.0d5d72188e7e974c32c9fac296ed93f4.js": "/desafioFrontend/precache-manifest.0d5d72188e7e974c32c9fac296ed93f4.js",
     "service-worker.js": "/desafioFrontend/service-worker.js",
     "static/css/main.ff679bc6.chunk.css.map": "/desafioFrontend/static/css/main.ff679bc6.chunk.css.map",
     "static/js/2.b0b8c5ef.chunk.js.LICENSE.txt": "/desafioFrontend/static/js/2.b0b8c5ef.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.5e876a0d.js",
     "static/js/2.b0b8c5ef.chunk.js",
     "static/css/main.ff679bc6.chunk.css",
-    "static/js/main.66a6a679.chunk.js"
+    "static/js/main.36f2c3cf.chunk.js"
   ]
 }
