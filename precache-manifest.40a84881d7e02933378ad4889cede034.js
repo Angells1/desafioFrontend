@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f18b7d5dca5bae6595d57867dcd55a7e",
+    "revision": "83f5ecb6ee5cc32af1f5ddb7ad04bfb8",
     "url": "/desafioFrontend/index.html"
   },
   {
-    "revision": "74c1797e1934903af48a",
+    "revision": "20cf63669c2a47abdbf0",
     "url": "/desafioFrontend/static/css/main.ff679bc6.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/desafioFrontend/static/js/2.b0b8c5ef.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "74c1797e1934903af48a",
-    "url": "/desafioFrontend/static/js/main.7cae7876.chunk.js"
+    "revision": "20cf63669c2a47abdbf0",
+    "url": "/desafioFrontend/static/js/main.5e8a1808.chunk.js"
   },
   {
     "revision": "aa8e97d219d119b399fb",
