@@ -18,7 +18,7 @@ width: 550px;
 
 letter-spacing: 1px;
 margin: 0 auto;
-min-width: 310px;
+
 
 
 
@@ -92,7 +92,7 @@ export const WeatherBox = styled.div.attrs({
 
 
 })`
-position: relative;
+
 background: #fff3e4;
 
 width: 80%;
@@ -101,6 +101,7 @@ box-sizing: border-box;
 height: 270px;
 margin: 15px auto;
 text-align: start;
+
 
 
 
@@ -116,14 +117,17 @@ text-align: start;
     width: 100%;
     padding: 30px 0;
     margin: auto;
+    height: 250px;
  
 }
 
 @media (max-width: 330px){
  
     padding: 10px 0;
-
+  
 }
+
+
 
 
 `;
@@ -143,6 +147,13 @@ border: 1px solid #999;
 background-color: #fff;
 
 @media (max-width: 580px){
+    width: 90%;
+    margin: 20px auto;
+ 
+   
+}
+
+@media (max-width: 310px){
     width: 90%;
     margin: 20px auto;
  
@@ -207,6 +218,13 @@ font-size: 15px;
 font-weight: bold;
 color: #4b4b4b;
 
+
+@media (max-width: 290px){
+   
+    font-size: 12px;
+
+}
+
 `;
 
 export const Close = styled.span.attrs({
@@ -245,6 +263,12 @@ margin: 20px 0;
 
 }
 
+@media (max-width: 290px){
+    margin: 3px 0 1px;
+    font-size: 28px;
+
+}
+
 `;
 
 
@@ -266,7 +290,7 @@ width: 75%;
 
 @media (max-width: 330px){
     grid-template-columns: 1fr;
-    grid-column-gap: 5px;
+   
    margin-bottom: 8px;
     width: 100%;
 
@@ -337,6 +361,9 @@ export const Start = styled.div.attrs({
 padding: 0 40px;
 
 
+@media (max-width: 330px){
+    padding: 0 30px;
+}
 
 `;
 
@@ -351,10 +378,13 @@ display: flex;
 flex-direction: row;
 justify-content: space-around;
 
+
 @media (max-width: 330px){
-   
-    padding: 10px 3px;
+    font-size: 0.8em;
+    padding: 10px 2px;
 }
+
+
 
 
 `;
@@ -427,9 +457,7 @@ margin: 0 auto;
 @media (max-width: 452px){
  
     width: 100%;
- 
-   
-    
+
 }
 
 
@@ -458,7 +486,7 @@ justify-content: center;
 align-items: center;
 color: #fff;
 box-sizing: border-box;
-min-width: 310px;
+
 `;
 
 export const Lists = styled.div`
